@@ -1,0 +1,32 @@
+body{
+    background-image: url("/resources/images/bg4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    line-height: 1;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none !important;
+}
+
+#create-new-project {
+    margin-left: 6px;
+}
+
+.btn-icon-custom {
+    height: 32px;
+    width: 40px;
+    margin-right: 3px;
+}
+
+.caption {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+p.body {
+    margin-top: 5px;
+}
